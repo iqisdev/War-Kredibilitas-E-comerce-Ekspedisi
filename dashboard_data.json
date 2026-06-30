@@ -1,0 +1,83 @@
+{
+  "overview": {
+    "total_tweet": 1905,
+    "positif": 338,
+    "negatif": 1520,
+    "netral": 47,
+    "akun_unik": 908,
+    "akurasi": 82.68,
+    "sentimen_dominan": "Negatif",
+    "topik_dominan": "Pengiriman",
+    "keluhan_utama": "Keterlambatan"
+  },
+
+  "brandSentiment": [
+    {
+      "brand": "J&T",
+      "Negatif": 310,
+      "Netral": 16,
+      "Positif": 170
+    },
+    {
+      "brand": "Lazada",
+      "Negatif": 435,
+      "Netral": 13,
+      "Positif": 49
+    },
+    {
+      "brand": "SiCepat",
+      "Negatif": 471,
+      "Netral": 3,
+      "Positif": 23
+    },
+    {
+      "brand": "TikTok Shop",
+      "Negatif": 304,
+      "Netral": 15,
+      "Positif": 96
+    }
+  ],
+
+  "sentimentSummary": [
+    {
+      "Sentiment": "Negatif",
+      "Jumlah": 1520
+    },
+    {
+      "Sentiment": "Positif",
+      "Jumlah": 338
+    },
+    {
+      "Sentiment": "Netral",
+      "Jumlah": 47
+    }
+  ],
+
+  "topIssues": [
+  {
+    "Kategori": "E-Commerce",
+    "Isu": "Paket Hilang / Rusak",
+    "Jumlah": 225
+  },
+  {
+    "Kategori": "E-Commerce",
+    "Isu": "Keterlambatan Pengiriman",
+    "Jumlah": 131
+  },
+  {
+    "Kategori": "Ekspedisi",
+    "Isu": "Masalah Kurir / COD",
+    "Jumlah": 121
+  },
+  {
+    "Kategori": "Ekspedisi",
+    "Isu": "Keterlambatan Pengiriman",
+    "Jumlah": 81
+  },
+  {
+    "Kategori": "Ekspedisi",
+    "Isu": "Paket Hilang / Rusak",
+    "Jumlah": 69
+  }
+]
+}

@@ -1,0 +1,12 @@
+streamlit==1.46.0
+pandas==2.3.0
+numpy==2.3.1
+plotly==6.2.0
+matplotlib==3.10.3
+seaborn==0.13.2
+networkx==3.5
+wordcloud==1.9.4
+pyvis==0.3.2
+streamlit-option-menu==0.4.0
+streamlit-extras==0.7.6
+Pillow==11.3.0
